@@ -63,7 +63,7 @@ Swire has provided seven different questions (tabulated below) they hope to have
 # Details and Milestones
 This project will be executed by the members of Group 1 within the Capstone Completion class, MSBA program at the University of Utah. This project will be presented on April 21, 2023, with intermediate milestones of an EDA summary (February 25), and a completed model with performance metrics (March 24). 
 
-# EDA
+# [Exploratory Data Analysis](https://github.com/Louisack1/Louis.github.io)
 ### Summary
 The EDA focusing on the geographical aspects of the dataset gave us insights into the sales and consumer behavior across different regions. Here’s a summary of the key findings:
 
