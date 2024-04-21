@@ -88,5 +88,10 @@ The box plot analysis of the average unit prices reveals intriguing patterns. Pr
 ![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Average%20Price%20By%20Region-Graph.png)
 
 ### Sales over time by Region:
+![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Sales%20Over%20Time%20by%20Region%20graph.png)
+
+### Count of Caloric Segment by Region:
+
+
 
 
