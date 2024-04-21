@@ -82,19 +82,19 @@ The higher average price and relatively strong sales in the Northern region, des
 ## Graph Interpretation:
 ### Insight from Box Plot Analysis:
 The box plot analysis of the average unit prices reveals intriguing patterns. Primarily, it indicates that the average price is significantly influenced by the order quantity and the type of packaging used. Notably, energy soda emerges as a higher-priced item compared to other types. The presence of outliers in the data suggests extreme values that are genuine variations rather than errors, providing important cues for accurate prediction without the need for imputation.
-![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Boxplot-Average%20Price%20for%20top%203%20Package%20Categories.png)
+![](/images/Boxplot-Average%20Price%20for%20top%203%20Package%20Categories.png)
 
-### Average price was highest in the Northern region
-![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Average%20Price%20By%20Region-Graph.png)
+### Average price was highest in the Northern region:
+![](/images/Average%20Price%20By%20Region-Graph.png)
 
 ### Sales over time by Region:
 ![](/images/Sales%20Over%20Time%20by%20Region%20graph.png)
 
 ### Count of Caloric Segment by Region:
-![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Count%20of%20Caloric%20Segment%20by%20Region-Graph.png)
+![](/images/Count%20of%20Caloric%20Segment%20by%20Region-Graph.png)
 
 ### Forecasts from Region with ARIMA(0,0,0)(0,1,0)[52) errors:
-![](https://github.com/Louisack1/Louis.github.io/blob/main/images/ARIMA%20forecast-Graph.png)
+![](/images/ARIMA%20forecast-Graph.png)
 
 
 # [Models.html](https://github.com/Louisack1/Louis.github.io)
