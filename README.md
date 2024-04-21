@@ -63,3 +63,5 @@ Swire has provided seven different questions (tabulated below) they hope to have
 # Details and Milestones
 This project will be executed by the members of Group 1 within the Capstone Completion class, MSBA program at the University of Utah. This project will be presented on April 21, 2023, with intermediate milestones of an EDA summary (February 25), and a completed model with performance metrics (March 24). 
 
+# EDA
+![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Boxplot-Average%20Price%20for%20top%203%20Package%20Categories.png)
