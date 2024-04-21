@@ -94,5 +94,4 @@ The box plot analysis of the average unit prices reveals intriguing patterns. Pr
 ### Forecasts from Region with ARIMA(0,0,0)(0,1,0)[52) errors:
 ![](/images/ARIMA%20forecast-Graph.png)
 
-
 # [Models.html](https://github.com/Louisack1/Louis.github.io)
