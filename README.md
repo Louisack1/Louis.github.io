@@ -1,6 +1,6 @@
 # Louis.github.io
 
-## Capstone-Case-Competition
+# Capstone-Case-Competition
 Demand Analysis & Forecasting
 
 # Swire's Product Demand Forecasting
