@@ -64,4 +64,25 @@ Swire has provided seven different questions (tabulated below) they hope to have
 This project will be executed by the members of Group 1 within the Capstone Completion class, MSBA program at the University of Utah. This project will be presented on April 21, 2023, with intermediate milestones of an EDA summary (February 25), and a completed model with performance metrics (March 24). 
 
 # EDA
+### Summary
+The EDA focusing on the geographical aspects of the dataset gave us insights into the sales and consumer behavior across different regions. Here’s a summary of the key findings:
+
+Population Distribution: The Western region has the largest population, followed by the Southwest, with the Northern region having the smallest population among the three. This demographic information sets the stage for understanding the market potential in each region.
+
+Price Variation by Market Key: The analysis indicates that there is not much variation in the price of products when segmented by market keys across different regions. This suggests that pricing strategies might be consistent across regions or that market keys do not significantly influence pricing variations.
+
+Regional Price Differences: Despite the overall consistency in pricing, the Northern region has the highest average price for products. This could be indicative of different consumer preferences, higher willingness to pay, or a different mix of products being more popular in the Northern region compared to others.
+
+Sales vs. Population Size: The sales volume in the Southwest, despite having almost double the population of the Northern region, does not have proportionally higher sales. This suggests that customers in the Northern region might be more valuable.
+
+Consumption Patterns of Diet vs. Regular Products: There wasn’t a significant difference in the consumption patterns between diet and regular versions of products. This was surprising, as it was expected that regular variants would greatly outpace diet. This finding could reflect broader consumer trends towards healthier lifestyles or suggest that diet products have gained notable (and possibly changing) acceptance among the population.
+
+The higher average price and relatively strong sales in the Northern region, despite its smaller population, highlight an opportunity to focus on high-value customers and premium product offerings in this area. Meanwhile, the widespread acceptance of both diet and regular products suggests that there is a broad market for various product types, and strategies should not necessarily favor one over the other without further market research. These geographical insights, combined with further analysis of seasonal trends, can help in crafting more more accurate forecasts for Swire.
+
+## Graph Interpretation:
+### Insight from Box Plot Analysis:
+The box plot analysis of the average unit prices reveals intriguing patterns. Primarily, it indicates that the average price is significantly influenced by the order quantity and the type of packaging used. Notably, energy soda emerges as a higher-priced item compared to other types. The presence of outliers in the data suggests extreme values that are genuine variations rather than errors, providing important cues for accurate prediction without the need for imputation.
 ![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Boxplot-Average%20Price%20for%20top%203%20Package%20Categories.png)
+
+### 
+
