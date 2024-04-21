@@ -97,4 +97,8 @@ The box plot analysis of the average unit prices reveals intriguing patterns. Pr
 ![](https://github.com/Louisack1/Louis.github.io/blob/main/images/ARIMA%20forecast-Graph.png)
 
 
+Jellyfin-Blue:
+@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@9.0.4/addons/jf-blue.css");
+
+
 
