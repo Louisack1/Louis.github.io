@@ -91,6 +91,10 @@ The box plot analysis of the average unit prices reveals intriguing patterns. Pr
 ![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Sales%20Over%20Time%20by%20Region%20graph.png)
 
 ### Count of Caloric Segment by Region:
+![](https://github.com/Louisack1/Louis.github.io/blob/main/images/Count%20of%20Caloric%20Segment%20by%20Region-Graph.png)
+
+### Forecasts from Region with ARIMA(0,0,0)(0,1,0)[52) errors:
+
 
 
 
